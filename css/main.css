@@ -14,9 +14,12 @@
 	padding-top:60px;
 	background:#D8D8D8;
 }
+.menu-border{
+	border-right:2px solid black;
+}
 .navbar-static-top ul{
 	padding-left:10px;
-	margin: 0px;
+	margin: -1px;
 }
 .navbar-static-top li{
 	display: inline-block;
@@ -31,6 +34,7 @@
 	padding: 10px 15px 15px 15px;
 	transition: all 0.2s;
 }
+/*
 .mini-menu{
 	display: inline-block;
 }
@@ -47,8 +51,14 @@ border-bottom:2px solid green;
 .foto{
 	background:#D8D8D8;
 }
-.color-fondo{
+*/
+
+.video-fondo{
 	background:#D8D8D8;
+	padding: 10px;
+}
+.video-fondo, .etiquetas{
+
 }
 /*--FOTER*/
 /*--displazar*/
